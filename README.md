@@ -1,1 +1,1 @@
-# SpringBoot-Practices
+# SpringBoot
